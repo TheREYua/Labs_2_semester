@@ -1,0 +1,9 @@
+﻿  functions.cpp
+c:\programing\labs\lab6\lab6\functions.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\programing\labs\lab6\lab6\functions.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\programing\labs\lab6\lab6\functions.cpp(33): warning C4804: '%': unsafe use of type 'bool' in operation
+c:\programing\labs\lab6\lab6\functions.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\programing\labs\lab6\lab6\functions.cpp(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\programing\labs\lab6\lab6\functions.cpp(65): warning C4804: '%': unsafe use of type 'bool' in operation
+  Lab6.vcxproj -> C:\Programing\Labs\Lab6\x64\Debug\Lab6.exe
+  Lab6.vcxproj -> C:\Programing\Labs\Lab6\x64\Debug\Lab6.pdb (Partial PDB)
